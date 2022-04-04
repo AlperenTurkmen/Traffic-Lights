@@ -1,0 +1,2 @@
+gcc runSimulations.c -o runSimulations
+./runSimulations 50 10 10 6
